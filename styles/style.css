@@ -296,7 +296,7 @@ footer {
   .one {
     align-items: flex-start;
     grid-column: 1 / 2;
-    grid-row: 1/2;
+    grid-row: 1 / 2;
   }
   .two {
     margin-bottom: 1.5rem;
